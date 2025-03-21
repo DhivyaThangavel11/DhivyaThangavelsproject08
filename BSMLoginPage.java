@@ -56,6 +56,7 @@ public class BSMLoginPage  extends RPASBaseClass{
 	send_keys(captcha, "TGHB");
 	WebElement loginbtn=	findElementbyId("btnLogin");
 	clickbutton(loginbtn);
+	Write code	
 	
 		
 	}
